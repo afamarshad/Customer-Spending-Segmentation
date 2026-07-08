@@ -183,7 +183,6 @@ Customer-Spending-Segmentation/
 ├── customer_spending_segmentation.ipynb
 ├── customer_shopping_data.csv
 ├── README.md
-├── requirements.txt
 └── images/
     ├── elbow_method.png
     └── customer_clusters.png
