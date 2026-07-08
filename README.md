@@ -41,7 +41,7 @@ The dataset contains transactional information such as:
 | Payment Method | Mode of payment |
 | Shopping Mall | Shopping location |
 
-**Source:** Kaggle (Add the dataset link here)
+**Source:** [(Kaggle)](https://www.kaggle.com/code/amrheshamm/customer-shopping-dataset/input)
 
 ---
 
