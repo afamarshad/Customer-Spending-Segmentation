@@ -149,7 +149,7 @@ Customers were visualized based on:
 
 Each color represents one spending category.
 
-![Customer Clusters](images/customer_clusters.png)
+![Customer Clusters](images/clusters.png)
 
 ---
 
